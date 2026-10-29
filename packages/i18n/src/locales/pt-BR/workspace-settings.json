@@ -63,7 +63,9 @@
             "required": "Precisamos de um endereço de e-mail para convidá-los.",
             "invalid": "E-mail inválido"
           }
-        }
+        },
+        "leave_input_label": "Digite o nome deste espaço de trabalho para continuar.",
+        "description": "Gerencie o acesso a este espaço de trabalho."
       },
       "billing_and_plans": {
         "heading": "Faturamento e planos",
@@ -170,7 +172,13 @@
             "title": "Erro!",
             "message": "O token de API não pôde ser excluído"
           }
-        }
+        },
+        "columns": {
+          "expires": "Expira",
+          "last_used": "Último uso"
+        },
+        "expired": "Expirado",
+        "not_used_yet": "Ainda não usado"
       },
       "integrations": {
         "title": "Integrações",

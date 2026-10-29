@@ -63,7 +63,9 @@
             "required": "招待するにはメールアドレスが必要です。",
             "invalid": "メールアドレスが無効です"
           }
-        }
+        },
+        "leave_input_label": "続行するには、このワークスペースの名前を入力してください。",
+        "description": "このワークスペースへのアクセスを管理します。"
       },
       "billing_and_plans": {
         "heading": "請求とプラン",
@@ -170,7 +172,13 @@
             "title": "エラー！",
             "message": "APIトークンを削除できませんでした"
           }
-        }
+        },
+        "columns": {
+          "expires": "有効期限",
+          "last_used": "最終使用"
+        },
+        "expired": "期限切れ",
+        "not_used_yet": "未使用"
       },
       "integrations": {
         "title": "インテグレーション",

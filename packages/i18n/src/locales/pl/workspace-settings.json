@@ -63,7 +63,9 @@
             "required": "Wymagany jest adres e-mail.",
             "invalid": "E-mail jest nieprawidłowy"
           }
-        }
+        },
+        "leave_input_label": "Wpisz nazwę tego obszaru roboczego, aby kontynuować.",
+        "description": "Zarządzaj dostępem do tego obszaru roboczego."
       },
       "billing_and_plans": {
         "heading": "Rozliczenia i plany",
@@ -170,7 +172,13 @@
             "title": "Błąd!",
             "message": "Usunięcie tokena nie powiodło się"
           }
-        }
+        },
+        "columns": {
+          "expires": "Wygasa",
+          "last_used": "Ostatnie użycie"
+        },
+        "expired": "Wygasł",
+        "not_used_yet": "Jeszcze nieużywany"
       },
       "integrations": {
         "title": "Integracje",

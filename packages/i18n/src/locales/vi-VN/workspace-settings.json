@@ -63,7 +63,9 @@
             "required": "Chúng tôi cần một địa chỉ email để mời họ.",
             "invalid": "Email không hợp lệ"
           }
-        }
+        },
+        "leave_input_label": "Nhập tên không gian làm việc này để tiếp tục.",
+        "description": "Quản lý quyền truy cập vào không gian làm việc này."
       },
       "billing_and_plans": {
         "heading": "Thanh toán và Kế hoạch",
@@ -170,7 +172,13 @@
             "title": "Lỗi!",
             "message": "Không thể xóa token API"
           }
-        }
+        },
+        "columns": {
+          "expires": "Hết hạn",
+          "last_used": "Lần dùng cuối"
+        },
+        "expired": "Đã hết hạn",
+        "not_used_yet": "Chưa sử dụng"
       },
       "integrations": {
         "title": "Tích hợp",
